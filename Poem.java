@@ -26,9 +26,9 @@ public class Poem
         out.println("  The vorpal blade went snicker-snack!");
         out.println("He left it dead, and with its head");
         out.println("  He went galumphing back.\n");
-        out.println("And hast thou slain the Jabberwock?");
+        out.println("\"And hast thou slain the Jabberwock?");
         out.println("  Come to my arms, my beamish boy!");
-        out.println("O frabjous day! Callooh! Callay!");
+        out.println("O frabjous day! Callooh! Callay!\"");
         out.println("  He chortled in his joy.\n");
         out.println("'Twas brillig, and the slithy toves");
         out.println("  Did gyre and gimble in the wabe;");
