@@ -1,4 +1,4 @@
-import static java.lang.System.out; 
+"import static java.lang.System.out; 
 import java.util.Scanner; 
 
 public class SandwichShop 
@@ -13,7 +13,7 @@ public class SandwichShop
 
         // Your code goes below here. 
         out.println("Checking sales goals.");
-        out.println("The sales goal for veggie sandwiches is 50");
+        out.println("The sales goal for veggie sandwiches is" + goalForVeggies);
         out.println("How many veggie sandwiches were sold today?");
         int veggiesSold;
         veggiesSold = keyboard.nextInt();
@@ -28,7 +28,7 @@ public class SandwichShop
             out.println("Fell short for burgers. ");
         }
         
-        out.println("The sales goal for burgers is 250");
+        out.println("The sales goal for burgers is" + goalForBurgers);
         out.println("How many burgers were sold today?");
         int burgersSold;
         burgersSold = keyboard.nextInt();
@@ -43,7 +43,7 @@ public class SandwichShop
             out.println("Fell short for burgers. ");
         }
         
-        out.println("The sales goal for subs is 180");
+        out.println("The sales goal for subs is" + goalForSubs);
         out.println("How many burgers were sold today");
         int subsSold;
         subsSold = keyboard.nextInt();
@@ -58,7 +58,7 @@ public class SandwichShop
             out.println("Fell short for subs. ");
         }
         
-        out.println("The sales goal for soup is 70");
+        out.println("The sales goal for soup is" + goalForSoup);
         out.println("How many soups were sold today?");
         int soupsSold;
         soupsSold = keyboard.nextInt();
