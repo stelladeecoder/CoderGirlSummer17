@@ -1,4 +1,9 @@
-
+/**
+ * This program makes the computer print a poem from the following text 
+ *a snippet from "Through the Looking Glass"
+ * @author (Delores Carey)
+ * @version (July 17, 2017)
+ */ 
 import static java.lang.System.out;
 public class Poem
 {
