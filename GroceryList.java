@@ -1,4 +1,9 @@
-
+/**
+ * This program takes the names of 3 items on a grocery list
+the quantity to purchase, and the cost, and calculates the total grocery bill.
+ * @author (Delores Carey)
+ * @version (July 24, 2017)
+ */ 
 import static java.lang.System.out;
 
 import java.util.Scanner;
