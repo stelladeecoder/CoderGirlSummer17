@@ -1,3 +1,12 @@
+/**
+ * This program is created to help a sandwich shop manager see if they met their sales goals for the
+day. Ask how many of various items they sold, and compare the number they sold
+to the daily goal. If they met the goal, you'll print "Made goal" and if they fell short, you'll print
+"Fell short".
+
+ * @author (Delores Carey)
+ * @version (July 31, 2017)
+ */ 
 import static java.lang.System.out; 
 import java.util.Scanner; 
 
